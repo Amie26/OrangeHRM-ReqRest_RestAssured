@@ -1,0 +1,39 @@
+2020-12-17 19:12:179 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-17 19:12:618 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-17 19:12:121 INFO  LoginPage :31 - Verify Login Panel message[[ChromeDriver: chrome on WINDOWS (1ea3aab72179c1865d49b17d5ca65c29)] -> xpath: //div[@id='logInPanelHeading']]
+2020-12-17 19:12:248 INFO  LoginPage :38 - Send text to User name field[[ChromeDriver: chrome on WINDOWS (1ea3aab72179c1865d49b17d5ca65c29)] -> xpath: //input[@id='txtUsername']]
+2020-12-17 19:12:441 INFO  LoginPage :45 - Send text to password field [[ChromeDriver: chrome on WINDOWS (1ea3aab72179c1865d49b17d5ca65c29)] -> xpath: //input[@id='txtPassword']]
+2020-12-17 19:12:601 INFO  LoginPage :53 - Click on Login Button[[ChromeDriver: chrome on WINDOWS (1ea3aab72179c1865d49b17d5ca65c29)] -> xpath: //input[@id='btnLogin']]
+2020-12-17 20:12:744 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-17 20:12:364 INFO  LoginPage :31 - Verify Login Panel message[[ChromeDriver: chrome on WINDOWS (638b710ebc9fc1568a97af9c78e7090b)] -> xpath: //div[@id='logInPanelHeading']]
+2020-12-17 20:12:836 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-17 20:12:425 INFO  LoginPage :31 - Verify Login Panel message[[ChromeDriver: chrome on WINDOWS (1df4cbf8f7a95b6db9ef8ba4b21ae3bc)] -> xpath: //div[@id='logInPanelHeading']]
+2020-12-17 20:12:12 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-17 20:12:572 INFO  LoginPage :31 - Verify Login Panel message[[ChromeDriver: chrome on WINDOWS (da65fe0c1c8fe821c5cdd5a418a46d9d)] -> xpath: //div[@id='logInPanelHeading']]
+2020-12-17 20:12:332 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-17 20:12:912 INFO  LoginPage :31 - Verify Login Panel message[[ChromeDriver: chrome on WINDOWS (02e53d17a68403dabd82037f53075461)] -> xpath: //div[@id='logInPanelHeading']]
+2020-12-17 20:12:08 INFO  LoginPage :38 - Send text to User name field[[ChromeDriver: chrome on WINDOWS (02e53d17a68403dabd82037f53075461)] -> xpath: //input[@id='txtUsername']]
+2020-12-17 20:12:193 INFO  LoginPage :45 - Send text to password field [[ChromeDriver: chrome on WINDOWS (02e53d17a68403dabd82037f53075461)] -> xpath: //input[@id='txtPassword']]
+2020-12-17 20:12:356 INFO  LoginPage :53 - Click on Login Button[[ChromeDriver: chrome on WINDOWS (02e53d17a68403dabd82037f53075461)] -> xpath: //input[@id='btnLogin']]
+2020-12-17 20:12:292 INFO  LoginPage :31 - Verify Login Panel message[[ChromeDriver: chrome on WINDOWS (02e53d17a68403dabd82037f53075461)] -> xpath: //div[@id='logInPanelHeading']]
+2020-12-17 20:12:456 INFO  LoginPage :36 - Clicks on User Link Proxy element for: DefaultElementLocator 'By.xpath: //a[@id='welcome']'
+2020-12-17 20:12:761 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-17 20:12:969 INFO  LoginPage :31 - Verify Login Panel message[[ChromeDriver: chrome on WINDOWS (520f3fe8cb7db87748139a437556e765)] -> xpath: //div[@id='logInPanelHeading']]
+2020-12-17 20:12:59 INFO  LoginPage :38 - Send text to User name field[[ChromeDriver: chrome on WINDOWS (520f3fe8cb7db87748139a437556e765)] -> xpath: //input[@id='txtUsername']]
+2020-12-17 20:12:231 INFO  LoginPage :45 - Send text to password field [[ChromeDriver: chrome on WINDOWS (520f3fe8cb7db87748139a437556e765)] -> xpath: //input[@id='txtPassword']]
+2020-12-17 20:12:388 INFO  LoginPage :53 - Click on Login Button[[ChromeDriver: chrome on WINDOWS (520f3fe8cb7db87748139a437556e765)] -> xpath: //input[@id='btnLogin']]
+2020-12-17 20:12:78 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-17 20:12:412 INFO  LoginPage :31 - Verify Login Panel message[[ChromeDriver: chrome on WINDOWS (588a0783febe4f3a88119f25013f164e)] -> xpath: //div[@id='logInPanelHeading']]
+2020-12-17 20:12:489 INFO  LoginPage :38 - Send text to User name field[[ChromeDriver: chrome on WINDOWS (588a0783febe4f3a88119f25013f164e)] -> xpath: //input[@id='txtUsername']]
+2020-12-17 20:12:677 INFO  LoginPage :45 - Send text to password field [[ChromeDriver: chrome on WINDOWS (588a0783febe4f3a88119f25013f164e)] -> xpath: //input[@id='txtPassword']]
+2020-12-17 20:12:887 INFO  LoginPage :54 - Click on Login Button[[ChromeDriver: chrome on WINDOWS (588a0783febe4f3a88119f25013f164e)] -> xpath: //input[@id='btnLogin']]
+2020-12-17 20:12:466 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-17 20:12:995 INFO  LoginPage :31 - Verify Login Panel message[[ChromeDriver: chrome on WINDOWS (ef2f31ddb05c13b82b3aaada9d16a0dd)] -> xpath: //div[@id='logInPanelHeading']]
+2020-12-17 20:12:74 INFO  LoginPage :38 - Send text to User name field[[ChromeDriver: chrome on WINDOWS (ef2f31ddb05c13b82b3aaada9d16a0dd)] -> xpath: //input[@id='txtUsername']]
+2020-12-17 20:12:229 INFO  LoginPage :45 - Send text to password field [[ChromeDriver: chrome on WINDOWS (ef2f31ddb05c13b82b3aaada9d16a0dd)] -> xpath: //input[@id='txtPassword']]
+2020-12-17 20:12:440 INFO  LoginPage :54 - Click on Login Button[[ChromeDriver: chrome on WINDOWS (ef2f31ddb05c13b82b3aaada9d16a0dd)] -> xpath: //input[@id='btnLogin']]
+2020-12-17 20:12:920 INFO  BasePage :29 - Launching Chrome Browser
+2020-12-17 20:12:438 INFO  LoginPage :31 - Verify Login Panel message[[ChromeDriver: chrome on WINDOWS (d2026e5210136ab7604b59535d59df48)] -> xpath: //div[@id='logInPanelHeading']]
+2020-12-17 20:12:518 INFO  LoginPage :38 - Send text to User name field[[ChromeDriver: chrome on WINDOWS (d2026e5210136ab7604b59535d59df48)] -> xpath: //input[@id='txtUsername']]
+2020-12-17 20:12:732 INFO  LoginPage :45 - Send text to password field [[ChromeDriver: chrome on WINDOWS (d2026e5210136ab7604b59535d59df48)] -> xpath: //input[@id='txtPassword']]
+2020-12-17 20:12:914 INFO  LoginPage :54 - Click on Login Button[[ChromeDriver: chrome on WINDOWS (d2026e5210136ab7604b59535d59df48)] -> xpath: //input[@id='btnLogin']]
